@@ -1,2 +1,2 @@
 # NBNOA
-Once the article is accepted, the code will be uploaded and made public
+A nearest-best neighbors optimization algorithm for constrained multimodal multiobjective problems
